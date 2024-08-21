@@ -1,7 +1,7 @@
 <div align="center">
 <div>
   <a href="https://www.cronocide.com">
-    <img src="Cronocide.webp" alt="Shiny title, huh?"/>
+    <img src="images/Cronocide.webp" alt="Shiny title, huh?"/>
   </a>
   <h1> Infrastructure Security Engineer </h1>
 </div>
