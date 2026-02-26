@@ -3,7 +3,7 @@
   <a href="https://www.cronocide.com">
     <img src="images/Cronocide.webp" alt="Shiny title, huh?"/>
   </a>
-  <h1> Infrastructure Security Engineer </h1>
+  <h1> Platform Security Engineer </h1>
 </div>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=cronocide&theme=transparent&border_radius=8" alt="GitHub Streak" /></a>
 <br><br>
